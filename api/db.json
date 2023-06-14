@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "nome": "agua",
+      "descricao": "beba agua",
+      "quantidade": 5901,
+      "urlImagem": "https://www.imigrantesbebidas.com.br/img/bebida/images/products/full/2893-agua-mineral-crystal-sem-gas-500ml.jpg?s=398bafb7b2c759cb3a1bbd6927c25023",
+      "data": "14-35-2023",
+      "id": "1"
+    },
+    {
+      "nome": "leite",
+      "descricao": "esse produto não é top",
+      "quantidade": 80,
+      "urlImagem": "https://www.ninho.com.br/sites/default/files/styles/image_webp/public/2022-10/ninho-fases1-carrossel-2022-sombra-fundo.png.webp?itok=YAFBAYKq",
+      "data": "14-34-2023",
+      "id": "2"
+    },
+    {
+      "nome": "Produto 1",
+      "descricao": "editado mas com foto icon",
+      "quantidade": 15001,
+      "urlImagem": "https://cdn-icons-png.flaticon.com/512/1695/1695213.png",
+      "data": "14-20-2023",
+      "id": 3
+    }
+  ]
+}
